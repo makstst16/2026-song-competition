@@ -1,0 +1,11 @@
+{
+  "title": "神蹟・經歷神｜背景視覺三選一",
+  "summary": "三款均為無文字 9:16 背景，預留標題、主辦機構 Logo 及報名 QR Code 的排版安全區。",
+  "preset": "selector-board",
+  "showCaptions": true,
+  "showControls": true,
+  "minTileWidth": 280,
+  "contactSheetColumns": 3,
+  "contactSheetThumb": 430,
+  "contactSheetOutput": "background-options-contact-sheet.png"
+}

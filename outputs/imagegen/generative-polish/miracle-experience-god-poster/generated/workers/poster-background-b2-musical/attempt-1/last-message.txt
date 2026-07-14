@@ -1,0 +1,7 @@
+Complete.
+
+Saved PNG:
+`outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/workers/poster-background-b2-musical/attempt-1/image.png`
+
+Wrote result JSON:
+`outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/workers/poster-background-b2-musical/attempt-1/result.json`

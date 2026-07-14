@@ -1,0 +1,45 @@
+{
+  "project": "神蹟 · 經歷神 — 詩歌創作及演繹比賽",
+  "organiser": "中華傳道會基石堂",
+  "status": "final artwork candidate — centre symbol changed to a cross on 2026-07-14",
+  "tagline": "用音樂記低恩典   用歌聲見證神蹟",
+  "event_schedule": {
+    "submission": "2026年7月－11月",
+    "public_voting": "2026年12月－2027年1月中",
+    "thanksgiving_concert": "2027年1月31日"
+  },
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "format": "PNG",
+    "dpi_metadata": 300
+  },
+  "deterministic_layers": [
+    "all Chinese and English copy",
+    "event dates and timeline",
+    "official organisation logo placement and safe zone",
+    "registration QR placement and safe zone",
+    "rhythmic headline typography and music-sticker patterns",
+    "transparent QR background with a white frame",
+    "layout, typography, contrast and export dimensions"
+  ],
+  "generated_layer": {
+    "file": "generated/poster-background-b2-musical.png",
+    "selected_direction": "B — 青春節奏（加強音樂元素版本）",
+    "usage": "background mood, light, translucent geometry, sound waves, staff lines, musical notes and rhythm elements only",
+    "constraints": "no generated text, logo, QR code or event claims"
+  },
+  "approved_media": {
+    "organisation_logo": "assets/organisation-logo.jpg",
+    "registration_qr": "assets/registration-qr.png",
+    "registration_qr_transparent": "assets/registration-qr-transparent.png"
+  },
+  "outputs": [
+    "final/miracle-experience-god-poster-9x16.png",
+    "final/miracle-experience-god-poster-preview.png"
+  ],
+  "pending_inputs": [
+    "final registration URL and detailed rules if they should appear on-poster"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "total": 4,
+  "complete": 4,
+  "failed": 0,
+  "pending": 0,
+  "results": [
+    {
+      "id": "poster-background",
+      "status": "complete",
+      "image_path": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/poster-background.png",
+      "error": null,
+      "caveats": ""
+    },
+    {
+      "id": "poster-background-b",
+      "status": "complete",
+      "image_path": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/poster-background-b.png",
+      "error": null,
+      "caveats": ""
+    },
+    {
+      "id": "poster-background-c",
+      "status": "complete",
+      "image_path": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/poster-background-c.png",
+      "error": null,
+      "caveats": ""
+    },
+    {
+      "id": "poster-background-b2-musical",
+      "status": "complete",
+      "image_path": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/generated/poster-background-b2-musical.png",
+      "error": null,
+      "caveats": ""
+    }
+  ]
+}

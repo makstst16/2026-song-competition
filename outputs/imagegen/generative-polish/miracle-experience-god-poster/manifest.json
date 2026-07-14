@@ -1,0 +1,39 @@
+{
+  "project": "神蹟 · 經歷神 — 歌唱比賽及詩歌創作比賽",
+  "organiser": "中華傳道會基石堂",
+  "status": "final artwork candidate — official logo and registration QR code added",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "format": "PNG",
+    "dpi_metadata": 300
+  },
+  "deterministic_layers": [
+    "all Chinese and English copy",
+    "event dates and timeline",
+    "official organisation logo placement and safe zone",
+    "registration QR placement and safe zone",
+    "rhythmic headline typography and music-sticker patterns",
+    "transparent QR background with a white frame",
+    "layout, typography, contrast and export dimensions"
+  ],
+  "generated_layer": {
+    "file": "generated/poster-background-b2-musical.png",
+    "selected_direction": "B — 青春節奏（加強音樂元素版本）",
+    "usage": "background mood, light, translucent geometry, sound waves, staff lines, musical notes and rhythm elements only",
+    "constraints": "no generated text, logo, QR code or event claims"
+  },
+  "approved_media": {
+    "organisation_logo": "assets/organisation-logo.jpg",
+    "registration_qr": "assets/registration-qr.png",
+    "registration_qr_transparent": "assets/registration-qr-transparent.png"
+  },
+  "outputs": [
+    "final/miracle-experience-god-poster-9x16.png",
+    "final/miracle-experience-god-poster-preview.png"
+  ],
+  "pending_inputs": [
+    "final registration URL and detailed rules if they should appear on-poster"
+  ]
+}
