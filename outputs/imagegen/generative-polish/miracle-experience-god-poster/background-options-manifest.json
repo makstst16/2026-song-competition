@@ -1,0 +1,35 @@
+[
+  {
+    "id": "background-a-dawn-soundwaves",
+    "index": 1,
+    "title": "A｜晨光聲浪",
+    "caption": "水彩感的藍綠晨光與金色聲浪，溫柔、清新、最有敬拜與恩典氣氛。",
+    "src": "generated/poster-background.png",
+    "href": "generated/poster-background.png",
+    "tone": "airy, hopeful, worshipful",
+    "palette": ["pale aqua", "mint", "sky blue", "sunrise gold"],
+    "motif": "dawn light, flowing sound waves, musical energy"
+  },
+  {
+    "id": "background-b-youthful-rhythm",
+    "index": 2,
+    "title": "B｜青春節奏",
+    "caption": "玻璃質感幾何、藍紫與珊瑚色節奏，較現代、活潑，最貼近社交媒體青年活動。",
+    "src": "generated/poster-background-b.png",
+    "href": "generated/poster-background-b.png",
+    "tone": "energetic, editorial, contemporary",
+    "palette": ["sky blue", "cobalt", "soft lilac", "coral peach"],
+    "motif": "sound-wave rings, translucent geometry, light trails"
+  },
+  {
+    "id": "background-c-grace-in-bloom",
+    "index": 3,
+    "title": "C｜恩典綻放",
+    "caption": "藍天、綠葉、白色飄帶與金色樂韻，自然、溫暖，帶更新與生命成長的感覺。",
+    "src": "generated/poster-background-c.png",
+    "href": "generated/poster-background-c.png",
+    "tone": "natural, renewed, uplifting",
+    "palette": ["leaf green", "aqua", "sky blue", "warm cream", "gold"],
+    "motif": "open sky, leaves, flowing fabric, golden music lines"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "runDirectory": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster",
+  "streamPath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/data/stream.json",
+  "runStatePath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/run-state.json",
+  "latestActionPath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/latest-action.json",
+  "paths": {
+    "streamPath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/data/stream.json",
+    "runStatePath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/run-state.json",
+    "latestActionPath": "/Users/terencemak/Desktop/Codex_Mac WS/2026\u6559\u6703\u6b4c\u5531\u6bd4\u8cfd/outputs/imagegen/generative-polish/miracle-experience-god-poster/latest-action.json"
+  },
+  "itemCount": 1,
+  "items": [
+    {
+      "id": "miracle-experience-god-final-b2",
+      "title": "B4\uff5c\u9752\u6625\u7bc0\u594f\u30fb\u900f\u660e QR \u80cc\u666f\u7248",
+      "caption": "9:16 \u6b63\u5f0f\u6d77\u5831\uff1bQR Code \u767d\u8272\u5e95\u5df2\u79fb\u9664\uff0c\u4fdd\u7559\u6df1\u85cd\u5716\u6848\u3001\u900f\u660e\u80cc\u666f\u53ca\u767d\u8272\u5916\u6846\u3002",
+      "tone": "",
+      "prompt": "",
+      "imageUrl": "/generated/mcp-thumbs/miracle-experience-god-final-b2.jpg",
+      "previewImageUrl": "/generated/mcp-thumbs/miracle-experience-god-final-b2.jpg",
+      "sourceImageUrl": "/generated/miracle-experience-god-final-b2.png"
+    }
+  ],
+  "visibleItemIds": [
+    "miracle-experience-god-final-b2"
+  ],
+  "hiddenImageIds": [],
+  "selectedImageIds": [],
+  "currentImageId": "miracle-experience-god-final-b2",
+  "updatedAt": "2026-07-11T08:59:00.070535Z"
+}
